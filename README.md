@@ -1,14 +1,18 @@
-# Project Title
+# Quality Education
 
 **Team Members:**
-- **NAME**:URK00AZ0000.
-- **NAME**:URK00AZ0000.
+- **Jobin Shery Mathew**:URK21CS1033.
+- **Anurag Sunil**:URK21CS5014.
 
-_A small brief idea about your project._
+_Breif Idea._
 
-Details about your project Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+This project is to develop a model to analyze State-wise Gender Parity Index (GPI) for primary schools from 2001-2010. GPI is a measure of gender equality in education, and it is calculated by dividing the female enrollment by male enrollment in a particular level of education. A GPI value of 1 indicates perfect gender parity, i.e., equal enrollment of both males and females. Values above or below 1 indicate gender imbalance, with higher values indicating higher female enrollment and lower values indicating higher male enrollment.
 
-- Dataset: [Link to the Dataset](https://github.com/orgs/community/discussions/categories/github-education) 
+The model's objective is to estimate the gender parity index for primary schools in different states in India from 2001-2010. This could involve several steps, including data cleaning, exploratory data analysis, statistical modeling, and prediction. The model may use various statistical techniques, such as regression analysis, time-series analysis, and machine learning algorithms, to analyze the data and estimate the GPI values.
+
+The output of the model would be a set of estimated GPI values for primary schools in different states over the given time period. This information could be used by policymakers and education professionals to understand the trends in gender equality in primary education and develop strategies to promote gender parity in education. Additionally, the model could be used to identify states with the lowest GPI values and prioritize them for intervention programs aimed at improving gender equality in education.
+
+- Dataset: [Link to the Dataset](https://drive.google.com/file/d/1xfyljnq0kFD17ojDOnwxRmVHvZRt-lgs/view?usp=share_link) 
 
 <details id=1 open>
 <summary><h2>Sub_section_1</h2></summary>
